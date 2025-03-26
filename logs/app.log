@@ -1,0 +1,5 @@
+[2025-03-26 19:23:15] Database connection error: SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+[2025-03-26 19:23:22] Database connection error: SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+[2025-03-26 19:23:44] Database connection error: SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+[2025-03-26 19:24:13] Database connection error: SQLSTATE[HY000] [1045] Access denied for user 'your_username'@'localhost' (using password: YES)
+[2025-03-26 19:28:22] Database connection error: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
